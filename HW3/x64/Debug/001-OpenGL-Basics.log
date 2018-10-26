@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\users\lenovo\desktop\cs 4600\hw3\main.cpp(21): warning C4091: “”: 没有声明变量时忽略“std::basic_ostream<char,std::char_traits<char>>”的左侧
+c:\users\lenovo\desktop\cs 4600\hw3\main.cpp(204): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\lenovo\desktop\cs 4600\hw3\main.cpp(208): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\lenovo\desktop\cs 4600\hw3\main.cpp(362): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\lenovo\desktop\cs 4600\hw3\main.cpp(363): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\lenovo\desktop\cs 4600\hw3\main.cpp(365): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\lenovo\desktop\cs 4600\hw3\main.cpp(366): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\lenovo\desktop\cs 4600\hw3\main.cpp(412): warning C4305: “参数”: 从“double”到“GLfloat”截断
+c:\users\lenovo\desktop\cs 4600\hw3\main.cpp(416): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+c:\users\lenovo\desktop\cs 4600\hw3\main.cpp(417): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+  001-OpenGL-Basics.vcxproj -> C:\Users\lenovo\Desktop\CS 4600\HW3\x64\Debug\001-OpenGL-Basics.exe
